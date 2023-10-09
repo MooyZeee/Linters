@@ -1,0 +1,265 @@
+body {
+background-color: white;
+background: url('Rectangle53-dark.svg')
+no-repeat;
+}
+
+.main-back-block {
+position: absolute;
+}
+
+.up-main-block {
+position: relative;
+}
+
+.logo-block {
+padding-left: 95px;
+padding-top: 50px;
+position: relative;
+display: inline-block;
+color: white;
+}
+
+.block-main-text {
+position: relative;
+}
+
+
+
+
+
+
+
+
+.last-post {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+padding-left: 430px;
+display: inline-block;
+}
+
+.last-post-block {
+color: white;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.last-post-block:hover {
+color: #c9c9c9;
+}
+
+
+
+
+
+
+
+
+
+.main {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+text-align: center;
+padding-left: 70px;
+display: inline-block;
+}
+
+
+.main-block {
+color: white;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.main-block:hover {
+color: #c9c9c9;
+}
+
+
+.wand-block {
+position: relative;
+margin-left: 645px;
+margin-top: -50px;
+}
+
+
+
+
+.donate {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+text-align: center;
+padding-left: 100px;
+display: inline-block;
+}
+
+.donate-a-link-block {
+text-decoration: none;
+color: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.donate-a-link-block:hover {
+color: #c9c9c9;
+}
+
+
+
+
+
+
+
+
+.community {
+font-family: sans-serif;
+font-size: 17px;
+text-align: center;
+margin-left: 70px;
+display: inline-block;
+}
+
+.community-block {
+color: white;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.community-block:hover {
+color: #c9c9c9;
+}
+
+
+.greeting {
+font-family: MBCorpo Text, sans-serif;
+letter-spacing: 5px;
+margin-top: 100px;
+font-size: 50px;
+color: #3D4351;
+text-align: center;
+}
+
+.brief-information-block {
+margin-top: -10px;
+color: #3D4351;
+text-align: center;
+font-family: MBCorpo Text,sans-serif;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+}
+
+.brief-information-two-block {
+margin-top: -13px;
+color: #3D4351;
+text-align: center;
+font-family: MBCorpo Text,sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+.switch-light-sun {
+margin-left: 387px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.type-button-block {
+position: relative;
+}
+
+
+.install-mta-button {
+margin-left: 580px;
+padding-top: 50px;
+position: absolute;
+}
+
+.p-install-mta-block {
+margin-left: 580px;
+padding-top: 77px;
+padding-left: 42px;
+color: white;
+position: relative;
+font-family: sans-serif;
+font-size: 19px;
+}
+
+.install-mta-block {
+position: relative;
+text-decoration: none;
+color: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.install-mta-block:hover {
+color: #c9c9c9;
+}
+
+
+
+
+
+
+
+
+
+.install-cash-button {
+margin-left: 860px;
+margin-top: -70px;
+position: absolute;
+}
+
+.p-install-cash-block {
+padding-top: 28px;
+padding-left: 42px;
+margin-left: 864px;
+margin-top: -49px;
+padding-top: 8px;
+padding-left: 42px;
+position: relative;
+font-family: sans-serif;
+font-size: 19px;
+}
+
+.install-cash-block {
+position: relative;
+text-decoration: none;
+color: black;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.install-cash-block:hover {
+color: #c9c9c9;
+}

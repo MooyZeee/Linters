@@ -1,0 +1,364 @@
+body {
+background-color: white;
+background: url('Rectangle53.png')
+no-repeat;
+}
+
+.main-back-block {
+position: absolute;
+}
+
+.up-main-block {
+position: relative;
+}
+
+.logo-block {
+padding-left: 95px;
+padding-top: 50px;
+position: relative;
+display: inline-block;
+color: white;
+}
+
+.block-main-text {
+position: relative;
+}
+
+
+
+
+
+
+.last-post {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+padding-left: 430px;
+display: inline-block;
+}
+
+.last-post-block {
+color: white;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.last-post-block:hover {
+color: #c9c9c9;
+}
+
+
+
+
+
+
+
+
+
+.main {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+text-align: center;
+padding-left: 70px;
+display: inline-block;
+}
+
+
+.main-block {
+color: white;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.main-block:hover {
+color: #c9c9c9;
+}
+
+.wand-block {
+position: relative;
+margin-left: 950px;
+margin-top: -50px;
+}
+
+
+
+
+
+.donate {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+text-align: center;
+padding-left: 100px;
+display: inline-block;
+}
+
+.donate-a-link-block {
+text-decoration: none;
+color: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.donate-a-link-block:hover {
+color: #c9c9c9;
+}
+
+
+
+
+
+
+
+
+.community {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+text-align: center;
+margin-left: 70px;
+display: inline-block;
+}
+
+.community-block {
+color: white;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.community-block:hover {
+color: #c9c9c9;
+}
+
+
+
+
+
+
+
+
+.text-donate-block {
+text-align: center;
+padding-top: 80px;
+font-size: 35px;
+font-family: sans-serif;
+color: #3D4351;
+}
+
+.donating-a-project {
+text-align: center;
+font-style: light;
+font-size: 15px;
+font-family: sans-serif;
+color: rgba(28, 54, 83, 60%);
+}
+
+.donating-a-project2 {
+margin-top: -10px;
+text-align: center;
+font-style: light;
+font-size: 15px;
+font-family: sans-serif;
+color: rgba(28, 54, 83, 60%);
+}
+
+.minimum-unit-donation {
+padding-top: 20px;
+text-align: center;
+font-style: light;
+font-size: 15px;
+font-family: sans-serif;
+color: rgba(28, 54, 83, 60%);
+}
+
+.minimum-unit-donation2 {
+margin-top: -10px;
+text-align: center;
+font-style: light;
+font-size: 15px;
+font-family: sans-serif;
+color: rgba(28, 54, 83, 60%);
+}
+
+
+.search-block {
+margin-top: 6px;
+position: relative;
+margin-left: -595px;
+}
+
+.selection-chooice-donate {
+position: relative;
+padding-top: 40px;
+text-align: center;
+}
+
+.rectangle-block {
+margin-left: -612px;
+position: absolute;
+}
+
+.arrow {
+position: relative;
+margin-top: -28px;
+margin-left: -520px;
+}
+
+.enter-username {
+position: relative;
+font-size: 13px;
+color: rgba(28, 54, 83, 40%);
+font-family: sans-serif;
+padding-top: 50px;
+}
+
+
+
+
+.selection-chooice-donate2 {
+position: relative;
+text-align: center;
+}
+
+.arrow2 {
+position: relative;
+margin-top: -23px;
+margin-left: -520px;
+}
+
+.rectangle-block2 {
+padding-top: 5px;
+margin-left: -618px;
+position: absolute;
+}
+
+.search-block2 {
+margin-top: 13px;
+position: relative;
+margin-left: -600px;
+}
+
+
+
+
+
+
+.enter-summa-donate {
+position: relative;
+font-size: 13px;
+color: rgba(28, 54, 83, 40%);
+font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rectangle-server-block {
+position: absolute;
+}
+
+.selection-choice-server {
+padding-top: 0px;
+position: relative;
+padding-left: 491px;
+}
+
+.rectangle-choice-text {
+position: relative;
+margin-left: -630px;
+font-size: 13px;
+color: rgba(28, 54, 83, 40%);
+font-family: sans-serif;
+display: inline-block;
+margin-top: 10px;
+}
+
+
+.rectangle-indicator-block {
+position: relative;
+margin-left: 630px;
+}
+
+
+
+
+.rounded-border-block {
+padding-top: 15px;
+margin-left: 680px;
+display: inline-block;
+}
+
+.choice-agreement-text {
+padding-left: 5px;
+font-size: 15px;
+color: rgba(41, 77, 202, 90%);
+font-family: sans-serif;
+display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+.design-button-payment {
+padding-left: 526px;
+position: absolute;
+}
+
+.payment-button-block {
+position: relative;
+}
+
+.payment {
+text-decoration: none;
+font-size: 17px;
+position: relative;
+font-family: sans-serif;
+color: white;
+background: blue;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.payment:hover {
+color: #000;
+}
+
+.design-button-text {
+width: 300;
+height: 42px;
+
+padding-top: 20px;
+margin-left: 730px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.switch-light-sun {
+margin-left: 387px;
+}
